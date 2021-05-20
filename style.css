@@ -1,0 +1,71 @@
+body {
+	background-image: url(images/Heck.jpg);
+	font-family:Verdana, Geneva, Sans-serif;
+	font-size:20px;
+}	
+
+
+header {
+	color: #b8860b;
+	font-size:40px;
+	position:absolute;
+	left:33%;
+	box-sizing:border-box;
+}
+
+h2 {
+	color:#b8860b;
+	font-style:bold;
+	font-size:30px;
+	position:ralative;
+	border:solid;
+	border-width:10px;
+	border-color:#b8860b;
+	background-color:maroon;
+}
+	
+}
+
+h3 {
+	color:#b8860b;
+	font-style:black;
+	
+}
+
+h4 {
+	color:#b8860b;
+	font-style:bold;
+}
+
+
+.myDIV {
+	width:1000px;
+	position:absolute;
+	left:18%;
+	top:25%;
+	box-sizing:border-box;
+	text-align:center;
+	height:100%;
+
+}
+.Me {
+	background-color:gold;
+	font:Verdana;
+	font-style:black;
+	font-size:20px;
+	margin-bottom:5px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	padding-bottom:15px;
+	text-align:center;
+}
+
+.myDIC {
+	width:1000px;
+	position:absolute;
+	left:18%;
+	box-sizing:border-box;
+	text-align:center;
+
+
